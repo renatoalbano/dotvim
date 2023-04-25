@@ -34,9 +34,11 @@ Files on `pack/local/start/config`
  - **plugin/compact.vim**: compatibility xterm and others
  - **plugin/colors.vim**: theme config and colors fixes
 
-## Version
+## Dependencies
 
-Tested on mac os x ventura builtin vim 9 probably works in vim 8.
+bash, git, curl, vim >= v8
+
+Tested on mac os x ventura builtin vim 9 probably works on vim 8.
 
 ## License
 
